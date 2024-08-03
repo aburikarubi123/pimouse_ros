@@ -1,0 +1,4 @@
+#!/usr/bin/env python3
+import rospy
+rosspy.init_node('buzzer')
+rospy.spin()
